@@ -1,0 +1,71 @@
+#report
+db_path=f:/dev/evedev/mail_arch/db1.sql
+
+
+axis_color=#c3c4c3
+axis_pen_width=3
+axis_lug=500
+quantity_bottom=20
+quantity_scale=0.2
+quantity_shift=2
+
+buy_color=#a3c4c3
+buy_pen_width=3
+
+buy_cache_color=#7046e3
+buy_cache_pen_width=15
+
+
+sell_color=#f3a4c3
+sell_pen_width=3
+
+price_top_indent=20
+price_bottom_indent=10
+price_right_indent=10
+price_left_indent=10
+price_axis_number=10
+sell_on_day_color=#84c600
+
+citadel_fee=0.003
+broker_fee=0.0208
+sales_tax=0.01
+
+rb_Type=Тип отсчета
+rb_profit=прибыль
+rb_margin=маржа
+rb_turnover=оборот
+
+rb_time=период отсчета
+rb_week=неделя 
+rb_month=месяц   
+rb_total=весь
+
+st_profit_month=прибыль за месяц
+st_margin_month=маржа за месяц
+st_profit_week=недельная прибыль
+st_margin_week=недельная маржа
+
+turnover_sum_limit=10000000
+profit_sum_limit=100000000
+
+statement_xscale=0.1
+statement_yscale=0.1
+
+xwindow_size=800
+ywindow_size=600
+
+# trade profit sheet
+summary_profit=b1
+monthly_profit=e1
+monthly_profit_forday=e2
+weekly_profit=e3
+weekly_profit_forday=e4
+
+ypos_detail_profit=6
+xpos_goods_of_month=0
+xpos_daily_profit_for_month=1
+xpos_margin_for_month=1
+xpos_goods_of_week=0
+xpos_daily_profit_for_week=1
+xpos_margin_for_week=2
+
