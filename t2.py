@@ -14,12 +14,12 @@ smgr = ctx.ServiceManager
 # get the central desktop object
 desktop = smgr.createInstanceWithContext("com.sun.star.frame.Desktop", ctx)
 # access the current writer document
-document=desktop.loadComponentFromURL("file:///f:/dev/evedev/libreOfficeDocs/test1.ods","_blank",0,())
+# document=desktop.loadComponentFromURL("file:///f:/dev/evedev/libreOfficeDocs/test1.ods","_blank",0,())
 #model = desktop.getCurrentComponent()
 
 #dir(model)
 
-buy_orders=document.getSheets().getByName("buyOrders")
+# buy_orders=document.getSheets().getByName("buyOrders")
 
 x=3
 

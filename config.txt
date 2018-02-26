@@ -2,6 +2,12 @@
 db_path=f:/dev/evedev/mail_arch/db1.sql
 
 
+#libreoffice
+sheet_service=com.sun.star.sheet.SpreadsheetDocument
+ods_url=file:///f:/dev/evedev/libreOfficeDocs/test1.ods
+
+
+
 axis_color=#c3c4c3
 axis_pen_width=3
 axis_lug=500
